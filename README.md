@@ -92,9 +92,3 @@ Artificial-Neural-Network-based-control-architecture-for-Aircraft-Autopilot-Desi
 **Shreehan Kate**
 For academic or industry collaboration, please feel free to reach out.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
