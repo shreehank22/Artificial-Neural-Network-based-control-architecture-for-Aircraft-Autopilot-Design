@@ -4,17 +4,17 @@ This repository presents a **robust autopilot design** for aircraft using **Arti
 
 ---
 
-## 📌 Key Highlights
+##  Key Highlights
 
-* ✅ Developed an **ANN-based controller** to replicate and eventually replace PID control behavior
-* ✅ Trained the ANN using data from a conventional **PID-controlled autopilot system**
-* ✅ Demonstrated the ANN’s ability to adapt to **nonlinear aircraft dynamics**
-* ✅ Validated performance through MATLAB/Simulink simulation
-* ✅ Offers a scalable, intelligent alternative to classic control techniques
+*  Developed an **ANN-based controller** to replicate and eventually replace PID control behavior
+*  Trained the ANN using data from a conventional **PID-controlled autopilot system**
+*  Demonstrated the ANN’s ability to adapt to **nonlinear aircraft dynamics**
+*  Validated performance through MATLAB/Simulink simulation
+*  Offers a scalable, intelligent alternative to classic control techniques
 
 ---
 
-## 🧠 Methodology Overview
+##  Methodology Overview
 
 1. **System Setup:**
 
@@ -37,7 +37,7 @@ This repository presents a **robust autopilot design** for aircraft using **Arti
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Artificial-Neural-Network-based-control-architecture-for-Aircraft-Autopilot-Design/
@@ -50,7 +50,7 @@ Artificial-Neural-Network-based-control-architecture-for-Aircraft-Autopilot-Desi
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 
@@ -78,7 +78,7 @@ Artificial-Neural-Network-based-control-architecture-for-Aircraft-Autopilot-Desi
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 * **ANN Controller** successfully mimics PID behavior after training.
 * Exhibits **robust tracking** of desired flight paths even in nonlinear operating regimes.
@@ -87,7 +87,7 @@ Artificial-Neural-Network-based-control-architecture-for-Aircraft-Autopilot-Desi
 ---
 
 
-## 👨‍💻 Author
+##  Author
 
 **Shreehan Kate**
 For academic or industry collaboration, please feel free to reach out.
