@@ -44,7 +44,7 @@ Artificial-Neural-Network-based-control-architecture-for-Aircraft-Autopilot-Desi
 │
 ├── ANN_based_Controller.slx       # Simulink model with ANN controller
 ├── NN_FINAL_PAPER.slx             # Complete model used for final experiments
-├── Paper.pdf                      # Research paper summarizing the methodology and results
+├── Paper.pdf                      # Project Report
 ├── README.md                      # Project documentation
 ```
 
@@ -77,6 +77,13 @@ Artificial-Neural-Network-based-control-architecture-for-Aircraft-Autopilot-Desi
 3. **Run simulations** to compare PID and ANN-based performance.
 
 ---
+
+## Documentation
+
+For complete theoretical background, design equations, training pipeline, and result analysis, refer to:
+
+📄 [Paper.pdf](Paper.pdf)
+
 
 ##  Results Summary
 
