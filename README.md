@@ -1,4 +1,4 @@
-# Artificial Neural Network-Based Control Architecture for Aircraft Autopilot Design
+# ArCAD-Artificial Neural Network-Based Control Architecture for Aircraft Autopilot Design
 
 This repository presents a **robust autopilot design** for aircraft using **Artificial Neural Networks (ANNs)** as controllers. The research explores the potential of neural networks to replace traditional PID controllers in **nonlinear flight control systems**, allowing the system to adapt and maintain performance in varying flight conditions.
 
